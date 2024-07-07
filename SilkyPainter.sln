@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilkyPainter", "SilkyPainter.csproj", "{AE6E69F1-A4FB-483B-922D-1ECC7C5FC917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE6E69F1-A4FB-483B-922D-1ECC7C5FC917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE6E69F1-A4FB-483B-922D-1ECC7C5FC917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE6E69F1-A4FB-483B-922D-1ECC7C5FC917}.Debug|x64.ActiveCfg = Debug|x64
+		{AE6E69F1-A4FB-483B-922D-1ECC7C5FC917}.Debug|x64.Build.0 = Debug|x64
+		{AE6E69F1-A4FB-483B-922D-1ECC7C5FC917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE6E69F1-A4FB-483B-922D-1ECC7C5FC917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE6E69F1-A4FB-483B-922D-1ECC7C5FC917}.Release|x64.ActiveCfg = Release|x64
+		{AE6E69F1-A4FB-483B-922D-1ECC7C5FC917}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F4B6B6A-8F70-4A75-8D98-C3D856E01475}
+	EndGlobalSection
+EndGlobal
